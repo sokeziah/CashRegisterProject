@@ -1,0 +1,28 @@
+-----------------------------------------
+Date & Time: 2025-06-06 14:02:17
+Cashier: johndoe17
+Items Purchased:
+- Banana | Qty: 3 | Price: 105.0
+- Orange | Qty: 5 | Price: 25.0
+- Grapes | Qty: 8 | Price: 70.0
+Total Amount: 1000.00
+-----------------------------------------
+-----------------------------------------
+Date & Time: 2025-06-06 14:02:58
+Cashier: johndoe17
+Items Purchased:
+- Banana | Qty: 3 | Price: 105.0
+- Orange | Qty: 5 | Price: 25.0
+- Grapes | Qty: 8 | Price: 70.0
+- Egg | Qty: 10 | Price: 7.0
+- Biscuit | Qty: 1 | Price: 67.0
+Total Amount: 1137.00
+-----------------------------------------
+-----------------------------------------
+Date & Time: 2025-06-06 14:03:49
+Cashier: johndoe17
+Items Purchased:
+- Apple | Qty: 3 | Price: 35.0
+- Orange | Qty: 3 | Price: 25.0
+Total Amount: 180.00
+-----------------------------------------
